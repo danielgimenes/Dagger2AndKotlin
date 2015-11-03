@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger2 and Kotlin</string>
+    <string name="hello_world">Hello World</string>
+</resources>
